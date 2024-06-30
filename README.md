@@ -15,17 +15,13 @@ This module implements the [RLE compression algorithm](https://en.wikipedia.org/
 
 Encode the buffer:
 
-    ```
     encode(buffer: Buffer) => Buffer
-    ```
 
 ### decode()
 
 Decode the buffer:
 
-    ```
     decode(buffer: Buffer) => Buffer
-    ```
 
 I don't claim the idea is unique. Most likely, the current approach has been used somewhere before.
 
