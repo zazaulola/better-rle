@@ -1,0 +1,20 @@
+{
+  "name": "better-rle",
+  "version": "1.0.0",
+  "main": "codec.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "compression",
+    "run-length encoding",
+    "rle",
+    "binary data",
+    "variable-length encoding",
+    "fast",
+    "efficient"
+  ],
+  "license": "GPL-3.0",
+  "description": "A fast and efficient run-length encoding (RLE) compression algorithm for binary data with a variable-length encoding scheme."
+}
